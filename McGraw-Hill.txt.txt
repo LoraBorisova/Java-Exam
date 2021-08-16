@@ -1,0 +1,1 @@
+Number: 1, name: Mathematics, quantity: 10; Number: 2, name: Biology, quantity: 8; Number: 3, name: Geography, quantity: 7; 
